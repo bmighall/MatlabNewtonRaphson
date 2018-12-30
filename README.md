@@ -1,2 +1,2 @@
 # MatlabNewtonRaphson
-This is a MATLAB program to iteratively solve for roots within a certain amount of error (current hard-coded max error value is 0.1*10-6) using the Newton-Raphson method.
+This is a MATLAB program to iteratively solve for roots within a certain amount of error (current hard-coded max error value is 0.1x10-6) using the Newton-Raphson method. While it's not perfect - it still relies on the user to hard-code the equations before running the program- it has numerous applications and works like a charm, and is also easily adapted for other forms of equations. This particular code solves roots for five different equations.
